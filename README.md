@@ -1,8 +1,8 @@
 ## Prazer, eu sou o Emerson 🤝🏽
 
 
-- 🔭 Atualmente estagiando no Banco Pan
-- 🌱 Estudando Java 
+- 👨🏽‍💻 Atualmente estagiando no Banco Pan
+- 📚 Estudando Java 
 
 <div>
   <a href="https://www.linkedin.com/in/emerson-carvalho-ssilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -14,12 +14,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-carvalho&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Tecnologias que estou estudando
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  
 </div>
-
-
-
