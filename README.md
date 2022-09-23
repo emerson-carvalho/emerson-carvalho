@@ -4,11 +4,7 @@
 - 👨🏽‍💻 Atualmente estagiando no Banco Pan
 - 📚 Estudando Java 
 
-[![Discord](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank)](https://www.linkedin.com/in/emerson-carvalho-ssilva)
-
-<div>
-  <a href="https://www.linkedin.com/in/emerson-carvalho-ssilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-carvalho-ssilva)
 
 <div>
   <a href="https://github.com/emerson-carvalho">
