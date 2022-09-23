@@ -4,10 +4,14 @@
 - 👨🏽‍💻 Atualmente estagiando no Banco Pan
 - 📚 Estudando Java 
 
+<div>
+  <img align="center" alt="gif" height="150em" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif"/>
+</div><br>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-carvalho-ssilva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersoncarvalhoss@yahoo.com)
 
-![image](https://user-images.githubusercontent.com/105824215/191961578-4400df00-04da-472d-9970-ecd8b2b4726d.png)
+##
 
 <div>
   <a href="https://github.com/emerson-carvalho">
@@ -15,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-carvalho&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Tecnologias
+## 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block">      
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
