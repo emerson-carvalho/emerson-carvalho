@@ -1,4 +1,4 @@
-## Prazer, eu sou o Emerson 🤝🏽
+## Hello, everybody! 🤝🏽
 
 
 - 👨🏽‍💻 Atualmente estagiando no Banco Pan
