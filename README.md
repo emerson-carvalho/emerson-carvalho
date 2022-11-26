@@ -2,7 +2,7 @@
 
 
 - 👨🏽‍💻 Atualmente estagiando no Banco Pan
-- 📚 Estudando Java 
+- 📚 Estudando Java e Kotlin
 
 <div>
   <img align="center" alt="gif" height="150em" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif"/>
