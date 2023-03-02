@@ -5,6 +5,7 @@
 - 📚 Estudando Java
 
 <div>
+  <img align="center" alt="gif" height="150em" src="https://i.pinimg.com/originals/7d/15/4d/7d154dbb89d8ea6c43b447956fe448b8.png"/>
   <img align="center" alt="gif" height="150em" src="https://c.tenor.com/Rft05nnPfpgAAAAC/sewa-rumah-nak-baya-bile.gif"/>
 </div><br>
 
