@@ -1,7 +1,7 @@
 ## Hello, everybody! 🤝🏽
 
 
-- 👨🏽‍💻 Atualmente estagiando no Banco Pan
+- 👨🏽‍💻 Engenheiro de Software Jr no Banco Pan
 - 📚 Estudando Java
 
 <div>
